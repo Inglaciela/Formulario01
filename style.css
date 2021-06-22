@@ -58,6 +58,7 @@ fieldset.grupo .campo{
     width: 80%;
 }
 .botao{
+    display: flex;
     font-size: 1.2em;
     background: #faa1d8;
     border: 1;
